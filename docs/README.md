@@ -19,7 +19,7 @@
 # 👉 Feature Implementation list
 
 ## Domain Logic
-- [ ] Generate random number
+- [x] Generate random number
 - [ ] Compare input with random number
 
 ## UI Logic
